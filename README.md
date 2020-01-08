@@ -11,4 +11,13 @@ TensorFlow is an open-source, highly flexible, and very extensible machine learn
 First, we aim to approach TensorFlow 2.0 from a practical point of view so that you can start using the framework as soon as possible. Secondly, we try to include and use a wide range of information such as TF team talks, API references, and practical experiences in the making of these materials to make it as comprehensive as possible. Thus, the user can enjoy an all-in-one package. Finally, tutorials are organized in an simple-to-complex manner that can benefit many newcomers. Moreover, the assignments that come with these tutorials make them a ready-to-use option in use in special (short) courses.
 
 ## Table of content
-
+- **Part #1**: TensorFlow Architecture
+- **Part #2**: Tensors and Basic Operations
+- **Part #3**: Model Design APIs
+- **Part #4**: Model Training APIs
+- **Part #5**: TensorFlow Input Data Pipeline
+- **Part #6**: Saving the Model
+- **Part #7**: Transfer Learning & TensorHub
+- **Part #8**: TensorBoard
+- **Part #9**: TF 2.0 for NLP
+- **Part #10**: TF 2.0 for Computer Vision
