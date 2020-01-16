@@ -8,7 +8,7 @@ TensorFlow is an open-source, highly flexible, and very extensible machine learn
 
 ### How are these tutorials different from other materials on the Internet?
 
-First, we aim to approach TensorFlow 2.0 from a practical point of view so that you can start using the framework as soon as possible. Secondly, we try to include and use a wide range of information such as TF team talks, API references, and practical experiences in the making of these materials to make it as comprehensive as possible. Thus, the user can enjoy an all-in-one package. Finally, tutorials are organized in an simple-to-complex manner that can benefit many newcomers. Moreover, the assignments that come with these tutorials make them a ready-to-use option in use in special (short) courses.
+First, we aim to approach TensorFlow 2.0 from a practical point of view so that you can start using the framework as soon as possible. Secondly, we try to include and use a wide range of information such as TF team talks, API references, and practical experiences in the making of these materials to make it as comprehensive as possible. Thus, the user can enjoy an all-in-one package. Finally, tutorials are organized in a simple-to-complex manner that can benefit many newcomers. Moreover, the assignments that come with these tutorials make them a ready-to-use option in use in special (short) courses.
 
 ## Table of content
 - **Part #1**: TensorFlow Architecture
