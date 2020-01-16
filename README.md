@@ -33,4 +33,7 @@ This set of tutorials is considered as an open-source community-driven project. 
 ### The structure of a single tutorial part
 Each part has at least three different segments. The first segment is the tutorial itself, which is basically a Jupyter notebook; the presentation slides for that part is the second segment; and finally, the solutions for the exercises is the last segment.
 
+**1. Noteboook**
+
+The notebook should be the primary source of educational material. Hence, you may consider completing it first. First, It should be as comprehensive as possible. Moreover, and more importantly, it must be wholly runnable, and the result of each runnable cell should be provided underneath. Additionally, you may consider designing a handful of exercises so that the students in the class can practice them during the session. Finally, all notebooks have to follow the template [here](https://github.com/iust-deep-learning/tensorflow-2-tutorial/blob/master/tf_2_0_tutorial_template.ipynb).
 
