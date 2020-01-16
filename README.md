@@ -29,3 +29,8 @@ This set of tutorials is considered as an open-source community-driven project. 
 - **Content correction**: If you find some of the parts are not correct (in any levels), please open an issue and describe it, and if possible, provide a suggestion to fix that.
 - **Adding contents (and completing the current ones )**: To find what sections and parts are incomplete, you need to each part's page. There is a suggested table of content in each section. You may want to complete the tutorial base on that or even recommend a new list of materials. Please on an issue and inform others that you are working on the tutorial. Finally, open a pull request.
 - **Adding a new part**: If you think this tutorial needs a new section, please open an issue and discuss that with others.
+
+### The structure of a single tutorial part
+Each part has at least three different segments. The first segment is the tutorial itself, which is basically a Jupyter notebook; the presentation slides for that part is the second segment; and finally, the solutions for the exercises is the last segment.
+
+
