@@ -39,6 +39,6 @@ The notebook should be the primary source of educational material. Hence, you ma
 
 **2. Slides:**
 
-Since Jupyter notebooks are not particularly useful in classes, the presentation slides are created to fulfill this goal. Ideally, each set of slides should be created from its corresponding notebook. Please consider designing slides that sequentially teach the TensorFlow code. That is, you should avoid showing a piece of code only in a single slide. To have coherent slides, we have created a Google Slides template, which you can access from [here](https://docs.google.com/presentation/d/1lQOjG3We_ZuEzkboyPHA4exOpd8swhYKEOdMLrLTPIY/edit?usp=sharing).
+Since Jupyter notebooks are not particularly useful in classes, the presentation slides are created to fulfill this goal. Ideally, each set of slides should be created from its corresponding notebook. Please consider designing slides that sequentially teach the TensorFlow code. That is, you should avoid showing a piece of code only in a single slide. To have coherent slides, we have created a Google Slides template, which you can access it from [here](https://docs.google.com/presentation/d/1lQOjG3We_ZuEzkboyPHA4exOpd8swhYKEOdMLrLTPIY/edit?usp=sharing).
 
 
