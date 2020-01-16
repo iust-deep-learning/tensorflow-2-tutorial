@@ -37,3 +37,8 @@ Each part has at least three different segments. The first segment is the tutori
 
 The notebook should be the primary source of educational material. Hence, you may consider completing it first. First, It should be as comprehensive as possible. Moreover, and more importantly, it must be wholly runnable, and the result of each runnable cell should be provided underneath. Additionally, you may consider designing a handful of exercises so that the students in the class can practice them during the session. Finally, all notebooks have to follow the template [here](https://github.com/iust-deep-learning/tensorflow-2-tutorial/blob/master/tf_2_0_tutorial_template.ipynb).
 
+**2. Slides:**
+
+Since Jupyter notebooks are not particularly useful in classes, the presentation slides are created to fulfill this goal. Ideally, each set of slides should be created from its corresponding notebook. Please consider designing slides that sequentially teach the TensorFlow code. That is, you should avoid showing a piece of code only in a single slide. To have coherent slides, we have created a Google Slides template, which you can access from [here](https://docs.google.com/presentation/d/1lQOjG3We_ZuEzkboyPHA4exOpd8swhYKEOdMLrLTPIY/edit?usp=sharing).
+
+
