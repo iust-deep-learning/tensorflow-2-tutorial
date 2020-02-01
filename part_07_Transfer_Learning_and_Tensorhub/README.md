@@ -1,9 +1,11 @@
-# Part #7: Transfer Learning & TensorHub
+# Part #7: Transfer Learning & Tensorhub
 ## Table of Content
+- Train a model and use it in another model
 - Transfer learning using tf.keras
 - Feature Extraction
 - Fine Tuning
-- Transfer learnign using TensorHub
+- Transfer learning using TensorHub
+- Extract Weights
 
 ## Download Links
 - Notebook
@@ -16,5 +18,4 @@
 | bardia karimizandi      | [@bardiakzzzz](https://github.com/bardiakzzzz) |
 
 ## #TODO
-- Add the notebook
 - Add slides
