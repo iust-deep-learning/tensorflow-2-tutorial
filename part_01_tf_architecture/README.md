@@ -17,4 +17,4 @@
 | Kiamehr Rezaee      | [@kiamehr74](https://github.com/kiamehr74) |
 
 ## #TODO
-- Add slides
+- Change slides' format to Google Slides
